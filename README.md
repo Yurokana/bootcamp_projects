@@ -15,4 +15,13 @@ We learn 10 sprints during 4 months
 - Essential Python for Data Analyst
 - Dashboard
 
-Badges : https://www.credly.com/users/supawit-srisupap/badges
+Badges : 
+
+Here is list of projects that I have done.
+
+
+
+
+
+
+
