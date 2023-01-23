@@ -19,16 +19,27 @@ Badges :
 
 ## Here is list of projects that I have done.
 
-### Speadsheats
-- [Project Dynamic Query](https://docs.google.com/spreadsheets/d/1bcgYvw5kB5TbX4_I0HWNU_zppYLqB-aAER1_xSDeCsc/edit?usp=sharing)
+### Speadsheets
+- [Project Dynamic Query](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/Spreadsheets/Project%20-%20Dynamic%20Query.JPG) - Dynamic query data from table
+- [Project Convert Date](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/Spreadsheets/Project%20-%20Convert%20Date.JPG) - Convert date from Thai format to English format
+- [Project ID Card Parser](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/Spreadsheets/Project%20-%20ID%20Card%20Parser.JPG) Using regular expression to extract data
+- [Speadsheets](https://docs.google.com/spreadsheets/d/1bcgYvw5kB5TbX4_I0HWNU_zppYLqB-aAER1_xSDeCsc/edit?usp=sharing)
 ### SQL database
+- [restaurant_owners.sql](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/SQL%20database/restaurant_owners.sql) - Create restaurant database with 6 tables (1 fact, 5 dimensions), analyze data by using SQL
 ### R Programming
+- [rock_scissors_paper.r](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/R%20Programming/rock_scissors_paper.r) - Rock Scissors Paper game with bot using `R`
+- [chatbot_pizza.r](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/R%20Programming/chatbot_pizza.r) - Rule base chatbot for ordering pizza
 ### Data Transformation
+- [NYC Flights 2013 Analysis.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/R%20Programming/NYC%20Flights%202013%20Analysis.ipynb) - Analyzing the `nycflights13` dataset using the `dplyr` package
 ### Data Visualization
 ### Statistics
 ### Intro to `Classical` Machine Learning
 ### Intro to Python
+- [Intro to Python_Homework1_rock_scissors_paper.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/Python/Intro%20to%20Python_Homework1_rock_scissors_paper.ipynb) - Rock Scissors Paper game with bot using `Python`
+- [Intro to Python_Homework2_ATM_OOP.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/Python/Intro%20to%20Python_Homework2_ATM_OOP.ipynb) - Create ATM class (Object-Oriented Programming), contain 7 methods for ATM function
 ### Essential Python for Data Analyst
+- [Analyzing_Sales_Data.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/Python/Analyzing_Sales_Data.ipynb) - Analyze sales data using `pandas` library in `Python`
+- 
 ### Dashboard
 
 
