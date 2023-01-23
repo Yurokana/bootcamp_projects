@@ -10,7 +10,7 @@ We learn 10 sprints during 4 months
 - Data Transformation
 - Data Visualization
 - Statistics
-- Intro to `Classical` Marchine Learning
+- Intro to `Classical` Machine Learning
 - Intro to Python
 - Essential Python for Data Analyst
 - Dashboard
@@ -26,7 +26,7 @@ Badges :
 ### Data Transformation
 ### Data Visualization
 ### Statistics
-### Intro to `Classical` Marchine Learning
+### Intro to `Classical` Machine Learning
 ### Intro to Python
 ### Essential Python for Data Analyst
 ### Dashboard
