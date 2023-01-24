@@ -42,6 +42,7 @@ Badges :
 - [Analyzing_Sales_Data.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/Python/Analyzing_Sales_Data.ipynb) - Analyze sales data using `pandas` library in `Python`
 - [Homework_Python_API.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/12536274b604dd64f9c0ae278018ae9691a42178/Python/Homework_Python_API.ipynb) - Using Public API by `requests` in `Python`
 ### Dashboard
+- [Airbnb_NYC](https://public.tableau.com/views/Airbnb_NYC_16745376831200/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) - Dashboard showing information about Airbnb in New York - `Tableau Public`
 
 
 
