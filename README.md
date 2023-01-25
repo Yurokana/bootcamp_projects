@@ -36,11 +36,11 @@ Badges :
 ### Statistics
 ### Intro to `Classical` Machine Learning
 ### Intro to Python
-- [Intro to Python_Homework1_rock_scissors_paper.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/Python/Intro%20to%20Python_Homework1_rock_scissors_paper.ipynb) - Rock Scissors Paper game with bot using `Python`
-- [Intro to Python_Homework2_ATM_OOP.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/Python/Intro%20to%20Python_Homework2_ATM_OOP.ipynb) - Create ATM class (Object-Oriented Programming), contain 7 methods for ATM function
+- [rock_scissors_paper.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/Python/Intro%20to%20Python_Homework1_rock_scissors_paper.ipynb) - Rock Scissors Paper game with bot using `Python`
+- [ATM_OOP.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/Python/Intro%20to%20Python_Homework2_ATM_OOP.ipynb) - Create ATM class (Object-Oriented Programming), contain 7 methods for ATM function
 ### Essential Python for Data Analyst
 - [Analyzing_Sales_Data.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/Python/Analyzing_Sales_Data.ipynb) - Analyze sales data using `pandas` library in `Python`
-- [Homework_Python_API.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/12536274b604dd64f9c0ae278018ae9691a42178/Python/Homework_Python_API.ipynb) - Using Public API by `requests` in `Python`
+- [Python_API.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/12536274b604dd64f9c0ae278018ae9691a42178/Python/Homework_Python_API.ipynb) - Using Public API by `requests` in `Python`
 ### Dashboard
 - [Airbnb_NYC](https://public.tableau.com/views/Airbnb_NYC_16745376831200/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) - Dashboard showing information about Airbnb Listing in New York City - `Tableau Public`
 - [Music & Mental Health Survey](https://datastudio.google.com/reporting/8f51a5d3-34a1-4e4b-a0b8-e6ccf61df450) - Dashboard showing genre of music effect to mental health - `Looker Studio`
