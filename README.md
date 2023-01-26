@@ -23,7 +23,7 @@ Badges :
 ### Data Visualization
 - [Data Visualization.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/48747b070ee0cc5b2fde2c9a75b7832d8d4e362f/R%20Programming/Data%20Visualization.ipynb) - Create 5 charts by using `ggplot2` in `R`
 ### Statistics
-- [titanic_logistic_regression](https://github.com/Yurokana/bootcamp_projects/blob/146d13528ba228729c2c8fd6fd6d84ad95983e8f/R%20Programming/titanic_logistic_regression.ipynb) - Predict the survival of `titanic` by logistic regression in `R`
+- [titanic_logistic_regression.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/146d13528ba228729c2c8fd6fd6d84ad95983e8f/R%20Programming/titanic_logistic_regression.ipynb) - Predict the survival of `titanic` by logistic regression in `R`
 ### Intro to `Classical` Machine Learning
 ### Intro to Python
 - [rock_scissors_paper.ipynb](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/Python/Intro%20to%20Python_Homework1_rock_scissors_paper.ipynb) - Rock Scissors Paper game with bot using `Python`
