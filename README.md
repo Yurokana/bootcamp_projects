@@ -1,4 +1,4 @@
-# Bootcamp Projects
+# Bootcamp Projects 🌈🚀
 
 Data science bootcamp batch 06
 
@@ -6,7 +6,9 @@ We learn 10 sprints during 4 months
 
 Badges : 
 
-## Here is list of projects that I have done.
+## Here is list of projects that I have done 🙃
+
+
 
 ### Speadsheets
 - [Project Dynamic Query](https://github.com/Yurokana/bootcamp_projects/blob/9e05f3f23ee41aa34d9ff2c1e18307b4eb09651b/Spreadsheets/Project%20-%20Dynamic%20Query.JPG) - Dynamic query data from table
