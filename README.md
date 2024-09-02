@@ -4,7 +4,7 @@ Data science bootcamp batch 06
 
 We learn 10 sprints during 4 months
 
-Badges : 
+Badges : [Certified Professional Data Analyst by DataRockie School](https://badgr.com/public/assertions/w9sbb8bPTciDwuzOSV8dUg?identity__email=supawit2541.48@gmail.com)
 
 ## Here is list of projects that I have done 🙃
 
